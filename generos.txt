@@ -1,0 +1,9 @@
+;dub
+Blues;Blues
+Fado;Fado
+Hiphop;Hiphop
+MPB; Musica popular portuguesa
+Pop;Pop
+Reggae;Reggae
+Rock;Rock
+dubstep;dub

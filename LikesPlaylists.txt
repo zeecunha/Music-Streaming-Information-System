@@ -1,0 +1,10 @@
+arpinto;Verão;Primavera;Inverno;
+argomes;Primavera;Marco;
+jtorres;Inverno;Marco;
+csoares;Inverno;
+rmoreira;Primavera;Verão;Marco;
+psobral;Verão;
+fribeiro;Marco
+lmbg;Fevereiro;Marco;
+nribeiro;Fevereiro;Inverno;
+prurato;Fevereiro;Inverno;

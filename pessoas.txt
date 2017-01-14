@@ -1,0 +1,10 @@
+﻿André Pinto;arpinto;arpinto@ufp.edu.pt
+Beatriz Gomes;argomes;argomes@ufp.edu.pt
+José Torres;jtorres;jtorres@ufp.edu.pt
+Christophe Soares;csoares;csoares@ufp.edu.pt
+Rui Moreira;rmoreira;rmoreira@ufp.edu.pt
+Pedro Sobral;psobral;pmsobral@ufp.edu.pt
+Feliz Gouveia;fribeiro;fribeiro@ufp.edu.pt
+Luís Gouveia;lmbg;lmbg@ufp.edu.pt
+Nuno Ribeiro;nribeiro;nribeiro@ufp.edu.pt
+Paulo Rurato;prurato;prurato@ufp.edu.pt

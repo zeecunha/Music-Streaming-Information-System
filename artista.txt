@@ -1,0 +1,13 @@
+The Beatles;beatles;Rock
+Deolinda;deolinda;Música Popular Portuguesa
+U2;u2;Rock
+Bon Jovi;bonjovi;Rock
+Boss AC;boss;HipHop
+Eminem;eminem;Hiphop
+Antonio Zambujo;antoniozambujo;Fado
+Ana Moura;anamoura;Fado
+Ray Charles;raycharles;Blues
+Adele;adele;Pop
+Bruno Mars;brunomars;Pop
+Miguel Araujo;miguelaraujo;Pop
+Bob Marley;bobmarley;Reggae

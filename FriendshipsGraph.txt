@@ -1,0 +1,8 @@
+arpinto;argomes;0.0
+arpinto;csoares;0.0
+arpinto;jtorres;2.0
+argomes;jtorres;1.0
+psobral;csoares;2.0
+psobral;nribeiro;0.0
+psobral;fribeiro;0.0
+fribeiro;rmoreira;0.0
